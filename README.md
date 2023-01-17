@@ -22,3 +22,7 @@ Complete the following steps:
 - Push the Set button
 
 Please note that once your camera turns off or hibernates the previous setting will change back to, "Fine Jpeg" and you will have to enter the Leica service mode again to alter the settings.
+
+------------
+
+If when trying to use the droplet and the following error message appears, "m8raw2dng-droplet" cannot be opened because the developer cannot be verified, you need to hold down Option button and click on the file then Open and then click Open again.
