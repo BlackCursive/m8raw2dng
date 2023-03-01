@@ -15,10 +15,10 @@ Complete the following steps:
 - Push the Right Arrow button 4 times
 - Push the Left Arrow button 3 times
 - Push the Right Arrow button 1 time
-- Push the INFO button
+- Push the SET button
 - Scroll down to Compression
 - Push the SET button
-- Scroll down to Jpeg+Raw
+- Scroll down to JPG fine+Raw
 - Push the SET button
 
 Please note that once your camera turns off or hibernates the previous setting will change back to, "Fine Jpeg" and you will have to enter the Leica service mode again to alter the settings.
